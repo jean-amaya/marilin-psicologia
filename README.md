@@ -5,8 +5,6 @@
 - `app.py`: página web principal.
 - `requirements.txt`: dependencias para desplegar en Streamlit Community Cloud.
 - `.streamlit/config.toml`: configuración visual del tema.
-- `assets/logo_marilin_amaya.png`: logo del negocio.
-- `assets/portada_marilin_amaya.png`: portada del negocio.
 
 ## Cómo probar en tu computadora
 
