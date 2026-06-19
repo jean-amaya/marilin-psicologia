@@ -1,6 +1,4 @@
-# Página web - Marilin Amaya Psicología
-
-Sitio web desarrollado en Python con Streamlit para un negocio de asesoramiento psicológico.
+# Página web - Marilin Amaya Asesoria Psicologica
 
 ## Archivos incluidos
 
