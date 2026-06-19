@@ -40,8 +40,7 @@ BUSINESS_NAME = "Marilin Amaya"
 PROFESSION = "Psicóloga"
 PHONE_DISPLAY = "+51 934 386 532"
 PHONE_WHATSAPP = "51934386532"
-INSTAGRAM_URL = "https://www.instagram.com/"
-FACEBOOK_URL = "https://www.facebook.com/"
+INSTAGRAM_URL = "https://www.instagram.com/psico._marilin?igsh=MXF0dnlrdHpob25yaA=="
 ```
 
 Reemplaza Instagram y Facebook por los enlaces reales cuando estén disponibles.
